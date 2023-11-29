@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# About me !
+Currently Student @42 School Lyon.
+  - I love implementing things to get a better life.
+  - I love photography / videography.
+    
 <!--
 **maeumdaerohae/maeumdaerohae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
