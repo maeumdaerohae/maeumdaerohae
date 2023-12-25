@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # About me !
-Currently Student @42 School Lyon.
+Currently Studying @42 School Lyon.
   - I love implementing things to get a better life.
   - I love photography / videography.
     
