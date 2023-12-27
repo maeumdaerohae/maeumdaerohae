@@ -6,13 +6,18 @@
 <!--Lofiboy-->
 [<img align="center" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" />](https://github.com/maeumdaerohae?tab=repositories)
 
+<div align="center">
+  
 ## About me !
-Currently Studying @42 School Lyon.
-  - I love implementing things to get a better life. :computer:
-  - I love photography / videography. :camera: :video_camera:
+
+</div>
+
+## Currently Studying @42 School Lyon.
+  ### - I love implementing things to get a better life. :computer:
+  ### - I love photography / videography. :camera: :video_camera:
     
-## 🏊 [42 Piscine](https://github.com/maeumdaerohae/42_piscine) 🏊
+## 🔒 🏊 [42 Piscine](https://github.com/maeumdaerohae/42_piscine) 🏊 🔒
 
-## 📚 [42 Common Core Student](https://github.com/maeumdaerohae/42_COMMON_CORE) 📚
+## 🔒 📚 [42 Common Core Student](https://github.com/maeumdaerohae/42_COMMON_CORE) 📚 🔒
 
-## 🧰 [42 Tools](https://github.com/maeumdaerohae/42_TOOLS)
+## 🔒 🛠️ [42 Tools](https://github.com/maeumdaerohae/42_TOOLS) 🛠️ 🔒
