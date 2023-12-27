@@ -4,7 +4,7 @@
 </p>
 
 <!--Lofiboy-->
-[<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />](https://github.com/maeumdaerohae?tab=repositories)
+[<img align="center" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" />](https://github.com/maeumdaerohae?tab=repositories)
 
 ## About me !
 Currently Studying @42 School Lyon.
