@@ -11,7 +11,8 @@ Currently Studying @42 School Lyon.
   - I love implementing things to get a better life. :computer:
   - I love photography / videography. :camera: :video_camera:
     
-## :swimmer: [42 Piscine](https://github.com/maeumdaerohae/42_piscine) :swimmer:
+## 🏊 [42 Piscine](https://github.com/maeumdaerohae/42_piscine) 🏊
 
-## :books: [42 Common Core Student](https://github.com/maeumdaerohae/42_COMMON_CORE) :books:
+## 📚 [42 Common Core Student](https://github.com/maeumdaerohae/42_COMMON_CORE) 📚
 
+## 🧰 [42 Tools](https://github.com/maeumdaerohae/42_TOOLS)
