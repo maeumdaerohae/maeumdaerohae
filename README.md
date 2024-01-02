@@ -26,6 +26,8 @@
 
 ## 📚 [42 Common Core Student](https://github.com/maeumdaerohae/42_COMMON_CORE) 📚
 
+## 👷‍♂️ [42 Workplace](https://github.com/maeumdaerohae/42_workplace) 👷
+
 ## 🛠️ [42 Tools](https://github.com/maeumdaerohae/42_TOOLS) 🛠️
 
 
