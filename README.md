@@ -28,7 +28,7 @@
 
 ## 👷‍♂️ [42 Workplace](https://github.com/maeumdaerohae/42_workplace) 👷
 
-## 🔖 [42 Library](https://github.com/maeumdaerohae/42_global_library) 🔖
+## 🔖 [42 Global Library](https://github.com/maeumdaerohae/42_global_library) 🔖
 
 ## 🛠️ [42 Tools](https://github.com/maeumdaerohae/42_TOOLS) 🛠️
 
