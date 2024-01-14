@@ -12,7 +12,7 @@
 
 </div>
 
-## Currently Studying @42School Lyon.
+## Currently Studying [@42School](https://github.com/42School) Lyon.
   ### - I love implementing things to get a better life. :computer:
   ### - I love photography / videography. :camera: :video_camera:
 
